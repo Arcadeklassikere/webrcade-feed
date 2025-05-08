@@ -1,0 +1,50 @@
+{
+  "title": "Arcadehallen",
+  "props": {},
+  "categories": [
+    {
+      "title": "NES",
+      "longTitle": "Nintendo Entertainment System",
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/nintendo-entertainment-system-nes-roms-europeusa/2%20PlayChoice-10%20Arcade/Super%20Mario%20Bros.%20%28PC10%29.nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros.",
+          "description": "Do you have what it takes to save the Mushroom Princess?  You'll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It's up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won't be easy.  To get to the Princess, you'll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It's another non-stop adventure from the Super Mario Bros.!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1746738985599
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/nintendo-entertainment-system-nes-roms-europeusa/2%20PlayChoice-10%20Arcade/Super%20Mario%20Bros.%202%20%28PC10%29.nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros. 2",
+          "description": "Mario's back!  Bigger and badder than before!  This time it's a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It's up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you've got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You've never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you've never had an adventure like this!  Only cunning and speed can save you now",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%202%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%202%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1746739652466
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/nintendo-entertainment-system-nes-roms-europeusa/2%20PlayChoice-10%20Arcade/Super%20Mario%20Bros.%203%20%28PC10%29.nes"
+          },
+          "type": "nes",
+          "title": "Super Mario Bros. 3",
+          "description": "Fight monsters and mini-bosses, avoid ghosts and the burning sun.  Make your way through water and quicksand.  Dodge cannon balls and bullets and rescue the King's wand!\n\nIn Super Mario Bros. 3 there are more warps, more chances at extra lives, and new special suits!  The raccoon suit lets you fly and knock out blocks.  The frog suit helps you out-swim the deadly fish.  There are suits for every occasion!\n\nStore up flowers and mushrooms to use later on.  Play game-show type bonus rounds!  Go back to that last screen and get a mushroom!  Pause to take a break, then continue where you left off!\n\nSuper Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%203%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%203%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1746739687520
+        }
+      ],
+      "description": "Nintendo Entertainment System (NES) ble lansert i Japan i 1983 som Famicom, men det var i 1985 da den kom til USA og senere Europa at spillverdenen for alvor ble forandret. Etter det store videospill-krasjet i 1983, var det mange som trodde spillindustrien var ferdig – men NES blåste nytt liv i markedet med sin solide maskinvare, ikoniske design og et bibliotek av tidløse klassikere.",
+      "thumbnail": "https://e7.pngegg.com/pngimages/851/505/png-clipart-super-nintendo-entertainment-system-video-game-consoles-wii-atari-gadget-electronics.png"
+    }
+  ]
+}
